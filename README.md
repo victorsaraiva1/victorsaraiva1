@@ -19,7 +19,7 @@
   <a href="https://www.instagram.com/itsmevitu/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg" alt="Instagram-logo" style="margin:4px 2px">
   </a>  
-<p/>
+</p>
 
 #### Possuo experiência nas seguintes ferramentas e tecnologias:
 * Ferramentas: VS Code, Git e Github.

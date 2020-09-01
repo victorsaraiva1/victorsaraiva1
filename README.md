@@ -8,7 +8,7 @@
 * :bike: Faço trilha de bike sempre que posso;
 * :cookie: Sou um ótimo cozinheiro se você levar em conta que o importante é matar a fome e que o gosto é totalmentee irrelevante.
 
-#### Profisionalmente:
+#### Profissionalmente:
 * :computer: Estou me desenvolvendo para virar um Dev Júnior.
 * :rocket: Sou apaixonado em criar e desenvolver idéias.
 * :anchor: Quero trabalhar em uma empresa onde possa me desenvolver a cada dia mais.

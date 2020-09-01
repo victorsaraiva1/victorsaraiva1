@@ -11,13 +11,13 @@
 * :anchor: Quero trabalhar em uma empresa onde possa me desenvolver a cada dia mais.
 * :speech_balloon: Quer conversar, perguntar alguma coisa? Pode me chamar em qualquer uma das redes sociais abaixo:
 
-<p align="center>
+<p align="center">
   <a href="https://www.linkedin.com/in/victorsaraivadev/">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="Linkedin-logo" style="margin:4px 2px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="Linkedin-logo" style="vertical-align:top margin:4px 2px">
   </a>
 
   <a href="https://www.instagram.com/itsmevitu/">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg" alt="Instagram-logo" style="margin:4px 2px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg" alt="Instagram-logo" style="vertical-align:top margin:4px 2px">
   </a>  
 </p>
 

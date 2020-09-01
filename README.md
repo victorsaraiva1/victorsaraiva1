@@ -6,11 +6,11 @@
 * :musical_note: Amo ouvir rock, pop/rock e eletrônica;
 * :books: Gosto de ler livros de fantasia, ficção ciêntifica e aventuras;
 * :bike: Faço trilha de bike sempre que posso;
-* :cookie: Sou um ótimo cozinheiro se você levar em conta que o importante é matar a fome e o gosto não é relevante.
+* :cookie: Sou um ótimo cozinheiro se você levar em conta que o importante é matar a fome e que o gosto é totalmentee irrelevante.
 
 #### Profisionalmente:
-* :rocket: Sou apaixonado em criar e desenvolver idéias.
 * :computer: Estou me desenvolvendo para virar um Dev Júnior.
+* :rocket: Sou apaixonado em criar e desenvolver idéias.
 * :anchor: Quero trabalhar em uma empresa onde possa me desenvolver a cada dia mais.
 * :speech_balloon: Quer conversar, perguntar alguma coisa? Pode me chamar em qualquer uma das redes sociais abaixo:
 

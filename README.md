@@ -1,12 +1,15 @@
 ## Olá Terráqueos :alien:
 
 ### Um pouco sobre mim:
-#### Meu passa tempo:
-* :video_game: Sou apaixonado por vídeo games.
-* :musical_note: Amo ouvir rock, pop/rock e eletrônica.
-* :books: Gosto de ler livros de fantasia, ficção ciêntifica e aventuras.
+#### Meus hobbies:
+* :video_game: Sou apaixonado por vídeo games;
+* :musical_note: Amo ouvir rock, pop/rock e eletrônica;
+* :books: Gosto de ler livros de fantasia, ficção ciêntifica e aventuras;
+* :bike: Faço trilha de bike sempre que posso;
+* :cookie: Sou um ótimo cozinheiro se você levar em conta que o importante é matar a fome e o gosto não é relevante.
 
 #### Profisionalmente:
+* :rocket: Sou apaixonado em criar e desenvolver idéias.
 * :computer: Estou me desenvolvendo para virar um Dev Júnior.
 * :anchor: Quero trabalhar em uma empresa onde possa me desenvolver a cada dia mais.
 * :speech_balloon: Quer conversar, perguntar alguma coisa? Pode me chamar em qualquer uma das redes sociais abaixo:

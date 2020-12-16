@@ -6,7 +6,7 @@
 * :musical_note: Amo ouvir rock, pop/rock e eletrônica;
 * :books: Gosto de ler livros de fantasia, ficção ciêntifica e aventuras;
 * :bike: Faço trilha de bike sempre que posso;
-* :cookie: Sou um ótimo cozinheiro se você levar em conta que o importante é matar a fome e que o gosto é totalmentee irrelevante.
+* :cookie: Sou um ótimo cozinheiro se você levar em conta que o importante é matar a fome e que o gosto é totalmente irrelevante.
 
 #### Profissionalmente:
 * :computer: Estou me desenvolvendo para virar um Dev Júnior.

@@ -9,9 +9,8 @@
 * :cookie: Sou um ótimo cozinheiro se você levar em conta que o importante é matar a fome e que o gosto é totalmente irrelevante.
 
 #### Profissionalmente:
-* :computer: Estou me desenvolvendo para virar um Dev Júnior.
+* :computer: Atualmente trabalho como Analista de Desenvolvimento Junior na Dti digital.
 * :rocket: Sou apaixonado em criar e desenvolver idéias.
-* :anchor: Quero trabalhar em uma empresa onde possa me desenvolver a cada dia mais.
 * :speech_balloon: Quer conversar, perguntar alguma coisa? Pode me chamar em qualquer uma das redes sociais abaixo:
 
 <p align="center">
@@ -25,9 +24,10 @@
 </p>
 
 #### Possuo experiência nas seguintes ferramentas e tecnologias:
-* Ferramentas: VS Code, Git e Github.
-* Front-end: HTML, CSS, JavaScript e React (Hooks).
-* Back-end: Express, Node.JS e JSON Web token.
+* Ferramentas: Visual Studio, Visual Studio Code, Git, Github, Sonar e Azure DevOps.
+* Front-end: HTML, CSS, Sass, JavaScript e React (Hooks).
+* Back-end: Express, Node.JS, JSON Web Token, C# e aprendendo sobre NestJS.
 * Padrão de Arquitetura: API (REST e RESTful) e MVC.
-* Banco de dados: MySQL e MongoDB.
+* Banco de dados: MySQL, SQL Server e MongoDB.
 * Testes Unitários: Jest e React Testing Library.
+* Testes Automatizados: Cypress.

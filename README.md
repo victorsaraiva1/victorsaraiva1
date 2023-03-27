@@ -9,7 +9,7 @@
 * :cookie: Sou um ótimo cozinheiro se você levar em conta que o importante é matar a fome e que o gosto é totalmente irrelevante.
 
 #### Profissionalmente:
-* :computer: Atualmente trabalho como Analista de Desenvolvimento Junior na Dti digital.
+* :computer: Atualmente trabalho como Instrutor Fullstack na Trybe.
 * :rocket: Sou apaixonado em criar e desenvolver idéias.
 * :speech_balloon: Quer conversar, perguntar alguma coisa? Pode me chamar em qualquer uma das redes sociais abaixo:
 

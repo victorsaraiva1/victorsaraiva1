@@ -9,7 +9,7 @@
 * :cookie: Sou um ótimo cozinheiro se você levar em conta que o importante é matar a fome e que o gosto é totalmente irrelevante.
 
 #### Profissionalmente:
-* :computer: Atualmente trabalho como Instrutor Fullstack na Trybe.
+* :computer: Atualmente estou em busca de uma nova oportunidade.
 * :rocket: Sou apaixonado em criar e desenvolver idéias.
 * :speech_balloon: Quer conversar, perguntar alguma coisa? Pode me chamar em qualquer uma das redes sociais abaixo:
 
@@ -26,7 +26,7 @@
 #### Possuo experiência nas seguintes ferramentas e tecnologias:
 * Ferramentas: Visual Studio, Visual Studio Code, Git, Github, Sonar e Azure DevOps.
 * Front-end: HTML, CSS, Sass, JavaScript e React (Hooks).
-* Back-end: Express, Node.JS, JSON Web Token, C# e aprendendo sobre NestJS.
+* Back-end: Express, Node.JS, JSON Web Token,.NET, Typescript e aprendendo sobre NestJS.
 * Padrão de Arquitetura: API (REST e RESTful) e MVC.
 * Banco de dados: MySQL, SQL Server e MongoDB.
 * Testes Unitários: Jest e React Testing Library.

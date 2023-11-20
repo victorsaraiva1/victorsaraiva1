@@ -3,14 +3,14 @@
 ### Um pouco sobre mim:
 #### Meus hobbies:
 * :video_game: Sou apaixonado por vídeo games;
-* :musical_note: Amo ouvir rock, pop/rock e eletrônica;
+* :musical_note: Amo ouvir rock, pop/rock e nova mbp;
 * :books: Gosto de ler livros de fantasia, ficção ciêntifica e aventuras;
 * :bike: Faço trilha de bike sempre que posso;
-* :cookie: Sou um ótimo cozinheiro se você levar em conta que o importante é matar a fome e que o gosto é totalmente irrelevante.
+* :cookie: Sou um ótimo cozinheiro se você levar em conta que o importante é saciar a fome e que o gosto é totalmente irrelevante.
 
 #### Profissionalmente:
-* :computer: Atualmente estou em busca de uma nova oportunidade.
-* :rocket: Sou apaixonado em criar e desenvolver idéias.
+* :computer: Atualmente estou em busca de uma nova oportunidade;
+* :rocket: Sou apaixonado em criar e desenvolver novas idéias;
 * :speech_balloon: Quer conversar, perguntar alguma coisa? Pode me chamar em qualquer uma das redes sociais abaixo:
 
 <p align="center">
@@ -25,9 +25,9 @@
 
 #### Possuo experiência nas seguintes ferramentas e tecnologias:
 * Ferramentas: Visual Studio, Visual Studio Code, Git, Github, Sonar e Azure DevOps.
-* Front-end: HTML, CSS, Sass, JavaScript e React (Hooks).
-* Back-end: Express, Node.JS, JSON Web Token,.NET, Typescript e aprendendo sobre NestJS.
+* Front-end: React, React Hooks, Redux, Bootstrap, Docker.
+* Back-end: Express, Node.JS, .NET, Typescript e NestJS.
 * Padrão de Arquitetura: API (REST e RESTful) e MVC.
 * Banco de dados: MySQL, SQL Server e MongoDB.
-* Testes Unitários: Jest e React Testing Library.
+* Testes Unitários: Jest e RTL.
 * Testes Automatizados: Cypress.

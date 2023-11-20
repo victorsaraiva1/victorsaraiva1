@@ -18,7 +18,7 @@
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="Linkedin-logo" style="vertical-align:top margin:4px 2px">
   </a>
 
-  <a href="https://www.instagram.com/itsmevitu/">
+  <a href="https://www.instagram.com/_victorfrs/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg" alt="Instagram-logo" style="vertical-align:top margin:4px 2px">
   </a>  
 </p>
